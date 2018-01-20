@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.top li {
+    display: inline;
+    text-decoration-style: none;
+    text-decoration-line: none;
+}
+
+.inline{
+    display:block;
+    border: 1px solid sandybrown;
+    margin:25px;
+}
+
+.n-child section:nth-child(2n+3){
+   border : 1px solid coral;
+    
+}
